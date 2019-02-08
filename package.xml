@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>44.0</version>
     <types>
+        <members>ACVEstimatedUsageControllerTest</members>
         <members>AggResultTest</members>
         <name>ApexClass</name>
     </types>
